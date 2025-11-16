@@ -7,11 +7,11 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "autoprefixer": "^9.7.5",
-    "postcss-cli": "^7.1.0",
+    "postcss-cli": "^11.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "tailwindcss": "^1.2.0"
   },
   "scripts": {
@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^9.0.0",
-    "eslint": "^5.14.1",
+    "eslint": "^9.39.1",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^4.1.0",
     "eslint-config-wesbos": "0.0.19",
